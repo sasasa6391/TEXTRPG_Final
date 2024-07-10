@@ -1,0 +1,706 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|c:\\users\\kkkk1\\downloads\\textrpg_final\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\mathf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:mathf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\consumeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:consumeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\savescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\savescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\shopscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\shopscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\casino\\pokerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:casino\\pokerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\casino\\sevenpoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:casino\\sevenpoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\managers\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:managers\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\managers\\bgmplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:managers\\bgmplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\restscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\restscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\questscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\questscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\worldmapscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\worldmapscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\managers\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:managers\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\casino\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:casino\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\actors\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:actors\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\actors\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:actors\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\actors\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:actors\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\casino\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:casino\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\characterinfoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\characterinfoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\casinoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\casinoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\equipmentscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\equipmentscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\scene\\createcharacterscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:scene\\createcharacterscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2FF0F296-2C4E-41F5-A8F4-1DF10F41328A}|\uAE40\uB3C4\uBA85_TEXTRPG.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kkkk1\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\Managers\\MusicPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\MusicPlayer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Equipment.cs",
+              "RelativeDocumentMoniker": "Equipment.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Equipment.cs",
+              "RelativeToolTip": "Equipment.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA0wC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T04:54:58.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsumeItem.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\ConsumeItem.cs",
+              "RelativeDocumentMoniker": "ConsumeItem.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\ConsumeItem.cs",
+              "RelativeToolTip": "ConsumeItem.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:25:40.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:03:39.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAWwEAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:16:10.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mathf.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Mathf.cs",
+              "RelativeDocumentMoniker": "Mathf.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Mathf.cs",
+              "RelativeToolTip": "Mathf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:13:04.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Renderer.cs",
+              "RelativeDocumentMoniker": "Renderer.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Renderer.cs",
+              "RelativeToolTip": "Renderer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:21:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Extensions.cs",
+              "RelativeDocumentMoniker": "Extensions.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Extensions.cs",
+              "RelativeToolTip": "Extensions.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:25:41.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:21:45.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\SaveScene.cs",
+              "RelativeDocumentMoniker": "Scene\\SaveScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\SaveScene.cs",
+              "RelativeToolTip": "Scene\\SaveScene.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:51:04.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShopScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\ShopScene.cs",
+              "RelativeDocumentMoniker": "Scene\\ShopScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\ShopScene.cs",
+              "RelativeToolTip": "Scene\\ShopScene.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:46:00.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Quest.cs",
+              "RelativeDocumentMoniker": "Quest.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Quest.cs",
+              "RelativeToolTip": "Quest.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:21:28.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Skill.cs",
+              "RelativeDocumentMoniker": "Skill.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Skill.cs",
+              "RelativeToolTip": "Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:04:22.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:21:42.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TitleScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\TitleScene.cs",
+              "RelativeDocumentMoniker": "Scene\\TitleScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\TitleScene.cs",
+              "RelativeToolTip": "Scene\\TitleScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:29:42.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PokerScore.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Casino\\PokerScore.cs",
+              "RelativeDocumentMoniker": "Casino\\PokerScore.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Casino\\PokerScore.cs",
+              "RelativeToolTip": "Casino\\PokerScore.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAcwBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:47:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SevenPoker.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Casino\\SevenPoker.cs",
+              "RelativeDocumentMoniker": "Casino\\SevenPoker.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Casino\\SevenPoker.cs",
+              "RelativeToolTip": "Casino\\SevenPoker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOYBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:47:40.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Managers.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Managers\\Managers.cs",
+              "RelativeDocumentMoniker": "Managers\\Managers.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Managers\\Managers.cs",
+              "RelativeToolTip": "Managers\\Managers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:53:16.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Managers\\GameManager.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAEwFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:16:45.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BGMPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Managers\\BGMPlayer.cs",
+              "RelativeDocumentMoniker": "Managers\\BGMPlayer.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Managers\\BGMPlayer.cs",
+              "RelativeToolTip": "Managers\\BGMPlayer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAASwCsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:56:03.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RestScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\RestScene.cs",
+              "RelativeDocumentMoniker": "Scene\\RestScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\RestScene.cs",
+              "RelativeToolTip": "Scene\\RestScene.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:16:18.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\MainScene.cs",
+              "RelativeDocumentMoniker": "Scene\\MainScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\MainScene.cs",
+              "RelativeToolTip": "Scene\\MainScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:32:02.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuestScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\QuestScene.cs",
+              "RelativeDocumentMoniker": "Scene\\QuestScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\QuestScene.cs",
+              "RelativeToolTip": "Scene\\QuestScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:21:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameTable.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\GameTable.cs",
+              "RelativeDocumentMoniker": "GameTable.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\GameTable.cs",
+              "RelativeToolTip": "GameTable.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAADwv5AAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:10:16.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorldMapScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\WorldMapScene.cs",
+              "RelativeDocumentMoniker": "Scene\\WorldMapScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\WorldMapScene.cs",
+              "RelativeToolTip": "Scene\\WorldMapScene.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAtwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:12:07.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoadScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\LoadScene.cs",
+              "RelativeDocumentMoniker": "Scene\\LoadScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\LoadScene.cs",
+              "RelativeToolTip": "Scene\\LoadScene.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAvwDQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:58:51.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Managers\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Managers\\SceneManager.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Managers\\SceneManager.cs",
+              "RelativeToolTip": "Managers\\SceneManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwGkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:26:59.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Casino\\Utility.cs",
+              "RelativeDocumentMoniker": "Casino\\Utility.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Casino\\Utility.cs",
+              "RelativeToolTip": "Casino\\Utility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:01:12.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\Scene.cs",
+              "RelativeDocumentMoniker": "Scene\\Scene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\Scene.cs",
+              "RelativeToolTip": "Scene\\Scene.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAIA1wD8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:35:28.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CasinoScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\CasinoScene.cs",
+              "RelativeDocumentMoniker": "Scene\\CasinoScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\CasinoScene.cs",
+              "RelativeToolTip": "Scene\\CasinoScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:38:10.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Casino\\Card.cs",
+              "RelativeDocumentMoniker": "Casino\\Card.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Casino\\Card.cs",
+              "RelativeToolTip": "Casino\\Card.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAcwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:47:01.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BattleScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\BattleScene.cs",
+              "RelativeDocumentMoniker": "Scene\\BattleScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\BattleScene.cs",
+              "RelativeToolTip": "Scene\\BattleScene.cs",
+              "ViewState": "AQIAAMQBAAAAAAAAAADwvxcCAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:31:56.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\Player.cs",
+              "RelativeDocumentMoniker": "..\\\uAE40\uB3C4\uBA85_TEXTRPG\\Player.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\Player.cs",
+              "RelativeToolTip": "..\\\uAE40\uB3C4\uBA85_TEXTRPG\\Player.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:21:51.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MusicPlayer2.cs",
+              "DocumentMoniker": "C:\\Users\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\MusicPlayer2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\MusicPlayer2.cs",
+              "ToolTip": "C:\\Users\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\MusicPlayer2.cs",
+              "RelativeToolTip": "..\\..\\..\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\MusicPlayer2.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:32:52.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\Managers\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\Managers\\MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\Managers\\MusicPlayer.cs",
+              "RelativeToolTip": "..\\..\\..\\kga\\Downloads\\\uAE40\uB3C4\uBA85_TEXTRPG\\Managers\\MusicPlayer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:21:25.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Actors\\Monster.cs",
+              "RelativeDocumentMoniker": "Actors\\Monster.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Actors\\Monster.cs",
+              "RelativeToolTip": "Actors\\Monster.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAA0wCYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:46:16.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Actors\\Character.cs",
+              "RelativeDocumentMoniker": "Actors\\Character.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Actors\\Character.cs",
+              "RelativeToolTip": "Actors\\Character.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAawL0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:53:26.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateCharacterScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\CreateCharacterScene.cs",
+              "RelativeDocumentMoniker": "Scene\\CreateCharacterScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\CreateCharacterScene.cs",
+              "RelativeToolTip": "Scene\\CreateCharacterScene.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAD4vzgBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:28:08.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CharacterInfoScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\CharacterInfoScene.cs",
+              "RelativeDocumentMoniker": "Scene\\CharacterInfoScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\CharacterInfoScene.cs",
+              "RelativeToolTip": "Scene\\CharacterInfoScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:41:32.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EquipmentScene.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\EquipmentScene.cs",
+              "RelativeDocumentMoniker": "Scene\\EquipmentScene.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Scene\\EquipmentScene.cs",
+              "RelativeToolTip": "Scene\\EquipmentScene.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAkwOwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:41:28.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Gear.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Gear.cs",
+              "RelativeDocumentMoniker": "Gear.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Gear.cs",
+              "RelativeToolTip": "Gear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:11:55.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Actors\\Actor.cs",
+              "RelativeDocumentMoniker": "Actors\\Actor.cs",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\Actors\\Actor.cs",
+              "RelativeToolTip": "Actors\\Actor.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:06:05.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T21:21:45.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\kkkk1\\Downloads\\TEXTRPG_Final\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T21:57:56.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
